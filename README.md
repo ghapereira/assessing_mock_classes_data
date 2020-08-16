@@ -1,4 +1,4 @@
-# Assessing Mock Classes: An Empyrical Study Data
+# Assessing Mock Classes: An Empirical Study Data
 
 ## Objective
 
